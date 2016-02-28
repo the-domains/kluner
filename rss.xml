@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[sysadmin madness, in relative perspective]]></title>
         <description><![CDATA[sysadmin madness, in relative perspective]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kluner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 10:50:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 10:34:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kluner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af697b5d-c6ed-487b-82d9-4990d1ef8f44.JPG">]]></description>
-            <link>undefined18124d7e-60c5-4842-bb4d-a450318364bc/index.html</link>
+            <link>https://thegrid.ai/kluner/18124d7e-60c5-4842-bb4d-a450318364bc/index.html</link>
             <guid isPermaLink="false">18124d7e-60c5-4842-bb4d-a450318364bc</guid>
-            <pubDate>Thu, 25 Feb 2016 10:49:12 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 10:34:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
